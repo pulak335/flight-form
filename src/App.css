@@ -1,0 +1,9 @@
+.bgPrimary {
+  background: #cfe8fc;
+  width: 100%;
+  height: 70vh;
+  background: url('https://assets.airtrfx.com/media-em/vs/611f9f3c88ed1_A350_EM.jpg?height=500&quality=85&format=auto&opt=true');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
